@@ -1,0 +1,16 @@
+﻿.env
+.venv/
+data/
+frontend/node_modules/
+frontend/dist/
+*.tsbuildinfo
+*.sqlite
+*.sqlite3
+*.db
+backend/__pycache__/
+backend/app/__pycache__/
+backend/app/services/__pycache__/
+backend/app/routers/__pycache__/
+*.pyc
+*.log
+
